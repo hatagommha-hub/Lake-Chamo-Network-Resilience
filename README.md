@@ -12,7 +12,7 @@ R code for the paper:
 - Gemamaw Tesfaye
 - Gashaw Tesfaye
 
-**Affiliation:** Arba Minch University, Ethiopia
+**Affiliation:** Ethiopian Institue of Agricultural Research, National Fisheries ans Aquatic Life Research Center
 
 ---
 
