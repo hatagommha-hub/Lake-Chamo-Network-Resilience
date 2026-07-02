@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Tadesse"
+    given-names: "Habtamu"
+  - family-names: "Atalaya"
+    given-names: "Kassahun"
+  - family-names: "Tesfaye"
+    given-names: "Gemamaw"
+  - family-names: "Tesfaye"
+    given-names: "Gashaw"
+title: "Lake Chamo Network Resilience Framework: R code for analysis and satellite validation"
+version: 1.0.0
+date-released: 2024-12-01
+url: "https://github.com/yourusername/Lake-Chamo-Resilience-Framework"
+repository-code: "https://github.com/yourusername/Lake-Chamo-Resilience-Framework"
